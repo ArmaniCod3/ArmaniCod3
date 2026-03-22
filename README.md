@@ -2,7 +2,7 @@
 
 ## Hi there ✌️, I'm Amani White
 
-- 🔭 I’m currently a Junior Data Analyst and aspiring Data Scientist.
-- 🌱 I’m currently learning iOS development just for fun, no career aspirations behind it.
+- 🔭 I’m currently a Data Analyst and aspiring Data Scientist.
+- 🌱 I’m currently learning Machine Learning just out of interest in the field and the possibilites it allows.
 - 📝 All of my work is currently at [ArmaniCod3](https://github.com/ArmaniCod3?tab=repositories)
 
