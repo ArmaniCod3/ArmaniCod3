@@ -2,7 +2,6 @@
 
 ## Hi there ✌️, I'm Amani White
 
-- 🔭 I’m currently a Data Analyst and aspiring Data Scientist.
-- 🌱 I’m currently learning Machine Learning just out of interest in the field and the possibilites it allows.
+- 🔭 I’m currently a Data Analyst with keen interest in AI.
+- 🌱 I’m currently learning Machine Learning Engineering (Self study).
 - 📝 All of my work is currently at [ArmaniCod3](https://github.com/ArmaniCod3?tab=repositories)
-
